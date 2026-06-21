@@ -1,2 +1,14 @@
 # qtofficial-guide
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
